@@ -1,5 +1,7 @@
 # Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+> **AION Analytics GitHub identity:** [AION Analytics (India)](https://github.com/AION-Analytics-India) is the official organization for AION Analytics Private Limited's public repositories, research and developer documentation. This `AION-Analytics` user account is secondary. This MCP directory is an independent curated resource, not AION's official product catalogue. [Official website](https://aionanalytics.in/).
+
 A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
 <br />
